@@ -19,7 +19,7 @@
 
 **Project 3 (in progress)**  _[link](https://github.com/paulapipkin/Project_3_IMDB)_
 
-Evaluating factors that are relevant for the revenue of a movie. This dataset collects most relevant information for movies released between 2012 and 2021. The features cover information like budget, revenue, ratings, certification and so on.Data was collected through API calls. Predictive model still em progress.
+Evaluating factors that are relevant for the revenue of a movie. This dataset collects most relevant information for movies released between 2012 and 2021. The features cover information like budget, revenue, ratings, certification and so on.Data was collected through API calls. Predictive model still in progress.
 
 **Cervical Cancer Prediction** _[link](https://github.com/paulapipkin/Cervical_Cancer_Risk-Factor)_
 

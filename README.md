@@ -35,7 +35,7 @@ Data was prepared, EDA (exploratory data analysis) was done, Modeling - 3 models
 
 ### CERTIFICATIONS
 
-**Data Science Certificate**, Remote — Coding Dojo - _[Certificate](https://app.diplomasafe.com/en-US/diploma/db4c4970d6e219729d12b016eb4a67ac00f12d537)_
+**Data Science Certificate**, Remote — Coding Dojo - _[Certificate](https://app.diplomasafe.com/en-US/diploma/d41b2547645a5472ad92be96ffb7d1747b9968f06)_
 June 2022 - October 2022
 
 >This data science bootcamp is a deep dive into the fundamentals of data science and machine learning with Python. Throughout the course, the students will gain a comprehensive understanding of the entire data science process from end-to-end, including data prep, data analysis and visualization, as well as how to properly apply machine learning algorithms to various situations or tasks. They’ll also walk away with a portfolio of projects showcasing their data science certification.

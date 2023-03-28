@@ -8,7 +8,7 @@
 
 **Statistical Analysis** - Hypothesis testing, p-value, Confidence level; 
 
-**Data Visualization** - Matplotlib, Seaborn, Tableau 
+**Data Visualization** - Matplotlib, Seaborn, Tableau, Looker 
 
 **SQL** — SQL, SQLite, SQL Alquemy
 

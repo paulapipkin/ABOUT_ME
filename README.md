@@ -90,7 +90,6 @@ Fluent - English and Portuguese(BR)
 
 https://www.linkedin.com/in/paulapipkin/ 
 
-1427 Iguana Cir
 Ventura, CA 93003
 
 **(805) 212 2893**

@@ -53,12 +53,6 @@ September 2022 - October 2022
 
 ### EDUCATION
 
-**UDACITY** - AWS Machine Learning Engineer
-October 2022 - February 2023
-
-The goal of the AWS Machine Learning Engineer (MLE) Nanodegree program is to equip software developers/data scientists with the data science and machine learning skills required to build and deploy machine learning models in production using Amazon SageMaker. This program will focus on the latest best practices
-and capabilities that are enabled by Amazon SageMaker, including new model design/deployment features and case studies in which they can be applied to.
-
 **Faculdade Oswaldo Cruz**, São Paulo, Brazil - Postgraduate Course Industrial Processes
 June 2012 - July 2014
 
